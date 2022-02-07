@@ -7,4 +7,4 @@ CLONE FOLLWING REPOSITORIES AND RUN ```GRADLE CLEAN BUILD``` FOR EACH:
 4) Order-service - for order management: https://github.com/elvint14/order-service
 5) Parcel-runner - for deployment and running: ```schema.sql, docker-compose.yml and data.sql```
 
-[arcitecture design](./DB3F7DD7-1EF2-4D33-80FE-30265BB9B4FD.jpeg)
+![arcitecture design](./DB3F7DD7-1EF2-4D33-80FE-30265BB9B4FD.jpeg)
